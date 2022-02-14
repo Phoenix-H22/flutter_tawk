@@ -5,13 +5,12 @@ homepage: https://github.com/ayoubamine/flutter_tawk
 
 environment:
   sdk: '>=2.7.0 <3.0.0'
-  flutter: '>=1.17.0 <2.0.0'
 
 dependencies:
   flutter:
     sdk: flutter
 
-  webview_flutter: ^1.0.7
+  webview_flutter: ^2.0.4
 
 dev_dependencies:
   flutter_test:
